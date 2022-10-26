@@ -1,0 +1,30 @@
+.heading
+{
+  top: 76px;
+  left: 96px;
+  width: 108px;
+  height: 21px;
+  text-align: left;
+  font: Medium 16px/21px Roboto;
+  letter-spacing: 0px;
+  color: #404040;
+  opacity: 1;
+  font-weight: bold;
+}
+.search{
+  top: 117px;
+left: 346px;
+width: 280px;
+height: 40px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 8px 20px #A4A4A421;
+border-radius: 2px;
+opacity: 1;
+}
+.Appbody{
+  top: 0px;
+left: 0px;
+width: 1366px;
+height: 822px;
+opacity: 1;
+}
